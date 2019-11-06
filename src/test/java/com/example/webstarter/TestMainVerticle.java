@@ -1,4 +1,4 @@
-package com.example.web_starter;
+package com.example.webstarter;
 
 import io.vertx.core.Vertx;
 import io.vertx.junit5.VertxExtension;
